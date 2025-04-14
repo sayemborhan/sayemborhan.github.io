@@ -1,0 +1,10 @@
+---
+title: "Teaching"
+format: html
+---
+
+I am involve in teaching in the Health Research Methodology (HRM) graduate program in the Department of Health Research Methods, Evidence, and Impact (HEI). Currently contributing to the following courses:
+
+- HRM 707: Advanced Epideiologic Methods
+- HRM 702: Introduction to Biostatistics
+- HRM 750: Practical Bayesian Design and Analysis in Clinical Studies

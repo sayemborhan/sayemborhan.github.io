@@ -1,0 +1,84 @@
+---
+title: "Publications"
+format: html
+---
+
+
+- [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=G99M_KkAAAAJ&view_op=list_works&sortby=pubdate)
+
+
+**2025**
+
+- Nicholson K, Salerno J, <b>Borhan S</b>, Cossette B, Guenter D, Vanstone M, Queenan J, Greiver M, Howard M, Terry AL, Williamson T, Griffith LE, Fortin M, Stranges S, Mangin D. The co-occurrence of multimorbidity and polypharmacy among middle-aged and older adults in Canada: A cross-sectional study using the Canadian Longitudinal Study on Aging (CLSA) and the Canadian Primary Care Sentinel Surveillance Network (CPCSSN). PLoS One. 2025 Jan 15;20(1):e0312873. doi: 10.1371/journal.pone.0312873.[Link to paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0312873)
+
+**2024**
+
+- Rodrigues I, Hewston P, Adachi J, <b>Borhan S</b>, Ioannidis G, Kouroukis A, Leckie C, Lee A, Rabinovich A, Siva P, Swance R, Tariq S, Thabane L, Papaioannou A. The reliability and validity of a non-wearable indoor positioning system to assess mobility in older adults: A cross-sectional study. Preprint. doi:10.1101/2024.07.04.24309984. [Link to paper](https://www.medrxiv.org/content/10.1101/2024.07.04.24309984v1)
+
+**2023**
+
+- <b>Borhan S</b>, Ma J, Papaioannou A, Adachi J, Thabane L. Performance of methods for analyzing continuous data from stratified cluster randomized trials - A simulation study. Contemp Clin Trials Commun. 2023 Mar 14;33:101115. doi: 10.1016/j.conctc.2023.101115. [Link to paper](https://www.sciencedirect.com/science/article/pii/S2451865423000613)
+
+
+- Mangin D, Lamarche L, Agarwal G, Ali A, Cassels A, Colwill K, Dolovich L, Brown ND, Farrell B, Freeman K, Frizzle K, Garrison SR, Gillett J, Holbrook A, Jurcic-Vrataric J, McCormack J, Parascandalo J, Richardson J, Risdon C, Sherifali D, Siu H, <b>Borhan S</b>, Templeton JA, Thabane L, Trimble J. Team approach to polypharmacy evaluation and reduction: feasibility randomized trial of a structured clinical pathway to reduce polypharmacy. Pilot Feasibility Stud. 2023 May 18;9(1):84. doi: 10.1186/s40814-023-01315-0.[Link to paper](https://link.springer.com/article/10.1186/s40814-023-01315-0)
+
+
+- Mangin D, Lamarche L, Freeman K, Ali A, Clark R, Shah N, Awan A, Langevin J, Parascandalo J, Dore Brown N, Jurcic-Vrataric J, Colwill K, Dragos S, <b>Borhan S</b>, Risdon C, Siu H, Farrell B, Trimble J. Linking Patients' Goals and Priorities to Recommendations for Medication Changes in a Polypharmacy-Focused Structured Clinical Pathway. J Patient Exp. 2023 May 17;10:23743735231174762. doi: 10.1177/23743735231174762.[Link to paper](https://journals.sagepub.com/doi/full/10.1177/23743735231174762)
+
+
+- Griffith LE, Beauchamp M, McMillan J, <b>Borhan S</b>, Oz UE, Wolfson C, Kirkland S, Basta NE, Thompson M, Raina P; Canadian Longitudinal Study on Aging (CLSA) Team. Persistent COVID-19 symptoms in community-living older adults from the Canadian Longitudinal Study on Aging (CLSA). Commun Med (Lond). 2023 Mar 11;3(1):36. doi: 10.1038/s43856-023-00266-0.[Link to paper](https://www.nature.com/articles/s43856-023-00266-0)
+
+
+- Mangin D, Lamarche L, Oliver D, Blackhouse G, Bomze S, <b>Borhan S</b>, Carr T, Clark R, Datta J, Dolovich L, Gaber J, Forsyth P, Howard M, Marentette-Brown S, Risdon C, Talat S, Tarride JÉ, Thabane L, Valaitis R, Price D. Health TAPESTRY Ontario: A Multi-Site Randomized Controlled Trial Testing Implementation and Reproducibility. Ann Fam Med. 2023 Mar-Apr;21(2):132-142. doi: 10.1370/afm.2944.[Link to paper](https://www.annfammed.org/content/21/2/132.abstract)
+
+**2022**
+
+
+- Loeb M, Bartholomew A, Hashmi M, Tarhuni W, Hassany M, Youngster I, Somayaji R, Larios O, Kim J, Missaghi B, Vayalumkal JV, Mertz D, Chagla Z, Cividino M, Ali K, Mansour S, Castellucci LA, Frenette C, Parkes L, Downing M, Muller M, Glavin V, Newton J, Hookoom R, Leis JA, Kinross J, Smith S, <b>Borhan S</b>, Singh P, Pullenayegum E, Conly J. Medical Masks Versus N95 Respirators for Preventing COVID-19 Among Health Care Workers : A Randomized Trial. Ann Intern Med. 2022 Dec;175(12):1629-1638. doi: 10.7326/M22-1966. Epub 2022 Nov 29. Erratum in: Ann Intern Med. 2023 Jun;176(6):884. doi: 10.7326/L23-0158.[Link to paper](https://www.acpjournals.org/doi/full/10.7326/M22-1966)
+
+
+- Howard M, Elston D, <b>Borhan S</b>, Hafid A, Arora N, Forbes R, Bernard C, Heyland DK. Randomised trial of a serious illness decision aid (Plan Well Guide) for patients and their substitute decision-makers to improve engagement in advance care planning. BMJ Support Palliat Care. 2022 Mar;12(1):99-106. doi: 10.1136/bmjspcare-2021-003040. Epub 2021 Jun 30.[Link to paper](https://spcare.bmj.com/content/12/1/99.abstract)
+
+
+- Shahid S, Thabane L, Marrin M, Schattauer K, Silenzi L, <b>Borhan S</b>, Singh B, Thomas C, Thomas S. Evaluation of a Modified SBAR Report to Physician Tool to Standardize Communication on Neonatal Transport. Am J Perinatol. 2022 Jan;39(2):216-224. doi: 10.1055/s-0040-1715524. Epub 2020 Aug 20.[Link to paper](https://www.thieme-connect.com/products/ejournals/abstract/10.1055/s-0040-1715524)
+
+
+
+**2021**
+
+
+- Mangin D, Lamarche L, Agarwal G, Banh HL, Dore Brown N, Cassels A, Colwill K, Dolovich L, Farrell B, Garrison S, Gillett J, Griffith LE, Holbrook A, Jurcic-Vrataric J, McCormack J, O'Reilly D, Raina P, Richardson J, Risdon C, Savelli M, Sherifali D, Siu H, Tarride JÉ, Trimble J, Ali A, Freeman K, Langevin J, Parascandalo J, Templeton JA, Dragos S, <b>Borhan S</b>, Thabane L. Team approach to polypharmacy evaluation and reduction: study protocol for a randomized controlled trial. Trials. 2021 Oct 26;22(1):746. doi: 10.1186/s13063-021-05685-9.[Link to paper](https://link.springer.com/article/10.1186/s13063-021-05685-9)
+
+
+- Bertagnolio S, Hermans L, Jordan MR, Avila-Rios S, Iwuji C, Derache A, Delaporte E, Wensing A, Aves T, <b>Borhan S</b>, Leenus A, Parkin N, Doherty M, Inzaule S, Mbuagbaw L. Clinical Impact of Pretreatment Human Immunodeficiency Virus Drug Resistance in People Initiating Nonnucleoside Reverse Transcriptase Inhibitor-Containing Antiretroviral Therapy: A Systematic Review and Meta-analysis. J Infect Dis. 2021 Aug 2;224(3):377-388. doi: 10.1093/infdis/jiaa683.[Link to paper](https://academic.oup.com/jid/article/224/3/377/5986606)
+
+
+- Ho TN, Wald J, <b>Borhan S</b>, Lauks S, Campbell A, Chaput C, Pierce M, Perkins J, Camera J, MacPherson A, Cox G, Raghavan N, Amer R, Nair P. Comprehensive Care Management in Conjunction with Sputum Cytometry-Guided Pharmacotherapy in a Post-Discharge Clinic for Patients with COPD. COPD. 2021 Aug;18(4):411-416. doi: 10.1080/15412555.2021.1945022. Epub 2021 Jul 5.[Link to paper](https://www.tandfonline.com/doi/full/10.1080/15412555.2021.1945022)
+
+
+- Hewston P, Kennedy CC, <b>Borhan S</b>, Merom D, Santaguida P, Ioannidis G, Marr S, Santesso N, Thabane L, Bray S, Papaioannou A. Effects of dance on cognitive function in older adults: a systematic review and meta-analysis. Age Ageing. 2021 Jun 28;50(4):1084-1092. doi: 10.1093/ageing/afaa270.[Link to paper](https://academic.oup.com/ageing/article/50/4/1084/6041778)
+
+
+
+**2020**
+
+- <b>Borhan S</b>, Papaioannou A, Ma J, Adachi J, Thabane L. Analysis and reporting of stratified cluster randomized trials-a systematic survey. Trials. 2020 Nov 17;21(1):930. doi: 10.1186/s13063-020-04850-w.[Link to paper](https://link.springer.com/article/10.1186/s13063-020-04850-w)
+
+
+- Mangin D, Lamarche L, Oliver D, Bomze S, <b>Borhan S</b>, Browne T, Carr T, Datta J, Dolovich L, Howard M, Marentette-Brown S, Risdon C, Talat S, Tarride JE, Thabane L, Valaitis R, Price D. Health TAPESTRY Ontario: protocol for a randomized controlled trial to test reproducibility and implementation. Trials. 2020 Aug 14;21(1):714. doi: 10.1186/s13063-020-04600-y.[Link to paper](https://link.springer.com/article/10.1186/s13063-020-04600-y)
+
+
+- Siu HYH, Elston D, Arora N, Vahrmeyer A, Kaasalainen S, Chidwick P, <b>Borhan S</b>, Howard M, Heyland DK. The Impact of Prior Advance Care Planning Documentation on End-of-Life Care Provision in Long-Term Care. Can Geriatr J. 2020 May 1;23(2):172-183. doi: 10.5770/cgj.23.386.[Link to paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC7259921/)
+
+
+- <b>Borhan S</b>, Kennedy C, Ioannidis G, Papaioannou A, Adachi J, Thabane L. An empirical comparison of methods for analyzing over-dispersed zero-inflated count data from stratified cluster randomized trials. Contemp Clin Trials Commun. 2020 Feb 1;17:100539. doi: 10.1016/j.conctc.2020.100539.[Link to paper](https://www.sciencedirect.com/science/article/pii/S2451865420300235)
+
+
+
+**2019**
+
+
+- Howard M, Slaven M, Bernard C, <b>Borhan S</b>, Elston D, Arora N, Tan A, Heyland DK. Decision support intervention (Plan Well Guide) for patients and their substitute decision-makers to improve engagement in advance care planning: protocol for a randomised trial. BMJ Open. 2019 Sep 20;9(9):e027897. doi: 10.1136/bmjopen-2018-027897.[Link to paper](https://bmjopen.bmj.com/content/9/9/e027897.abstract)
+
+
+- <b>Borhan S</b>, Mallick R, Pillay M, Kathard H, Thabane L. Sensitivity of methods for analyzing continuous outcome from stratified cluster randomized trials - an empirical comparison study. Contemp Clin Trials Commun. 2019 Jul 5;15:100405. doi: 10.1016/j.conctc.2019.100405.[Link to paper](https://www.sciencedirect.com/science/article/pii/S2451865419300602)

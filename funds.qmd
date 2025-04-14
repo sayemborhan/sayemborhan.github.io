@@ -1,0 +1,36 @@
+---
+title: "Funds"
+format: html
+---
+
+-   <b>Understanding the aging process – a multi-omics approach</b>
+
+    Source: Canadian Institute of Health Research (CIHR)
+
+    Fund: \$68,016
+
+    Year: 2024-25
+
+    Role: Principal Investigator
+
+    Co-Investigators: Dr. Lehana Thabane, Dr. Lauren Griffith, Dr. Marie Pigeyre, Dr. Divya Joshi
+
+- <b>Understanding the life course accumulation and impact of multiple chronic diseases and multiple prescribed medications on the experiences of adults and older adults in Canada </b>
+
+    Source: Canadian Institute of Health Research (CIHR)
+
+    Fund: \$100,000
+
+    Year: 2021-24
+
+    Role: Co-Investigator
+
+    PI: Drs. Kathryn Nicholson and Dee Mangin
+
+- <b>OC-CaMOS Fellowship</b>
+
+    Source: Osteoporosis Canada
+
+    Year:2019
+
+    Fund:\$20,000

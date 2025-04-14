@@ -1,0 +1,6 @@
+---
+title: "Consultancy"
+format: html
+---
+
+I am involved in biostatistical consulting for health research, assisting academic and industry partners with methodological design and statistical analysis. My services cover a range of study types, including randomized controlled trials, machine learning, pilot studies, observational studies, and systematic reviews/meta-analyses. For collaboration and consultancy, please [contact](href:mailto:borhana@mcmaster.ca) me. 

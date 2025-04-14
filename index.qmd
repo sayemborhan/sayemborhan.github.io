@@ -1,0 +1,27 @@
+---
+title: "Sayem Borhan, PhD"
+image: profilePic.jpeg
+about:
+  template: trestles
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/sayem-borhan/
+    - icon: github
+      text: Github
+      href: https://github.com/sayemborhan
+    - icon: envelope-at
+      text: Email
+      href: mailto:borhana@mcmaster.ca
+    - icon: google scholar
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=G99M_KkAAAAJ
+---
+
+Hello, thank you for visiting my page.
+
+I am an academic biostatistician and health researcher with a strong background in health research methods, biostatistics, and data science. I have extensive experience, expertise, and skills in designing and conducting health research studies.
+
+I am involved in both methodological and epidemiological research. My research areas include clinical trials, real-world evidence, causal inference, omics, systematic review and meta-analysis, data science, machine learning, aging and bone health. I am also interested in collaborative research.
+
+I work as an Assistant Professor in the Department of Health Research Methods, Evidence, and Impact (HEI) at McMaster University and as a methodologist/biostatistician at the Research Institute of St Joseph's Healthcare Hamilton, Ontario, Canada.

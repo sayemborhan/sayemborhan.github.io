@@ -1,0 +1,34 @@
+---
+title: "Research"
+format: html
+---
+
+**Current research projects:**
+
+[<b>- Development of biological age clocks:</b>]{.underline}
+
+We are developing biological age clocks using the omics data (e.g. metabolomics and epigenomics) from the Canadian Longitudinal Study on Aging (CLSA). We are utilizing machine learning methods to develop metabolomic age based on the metabolomics data and multi-omics age by integrating metabolomics and epigenomics data.
+
+***Funding:***
+
+We received funding of \$68,016 from the Canadian Institute of Health Research (CIHR) for this project.
+
+***Publications/Presentations:***
+
+Development of metabolomics age clock and identification of important metabolites. Annual International Conference of the Metabolomics Society, Japan, June 16-20, 2024
+
+[<b>- Prediction of fragility fracture:</b>]{.underline}
+
+We are developing a machine learning algorithm to predict the fragility fracture using the data from the Canadian Multi-centre Osteoporosis Study (CaMos). We are also performing SHAP analysis to identify the important features and their interactions.
+
+***Funding:***
+
+We received funding of \$20,000 from Osteoporosis Canada through the OC-CaMos fellowship for this project.
+
+***Publications/Presentations:***
+
+Prediction of Fragility Fracture and Identification of Important Factors – an Interpretable Machine Learning Approach. Annual Meeting of the American Society for Bone and Mineral Research (ASBMR), Toronto, Canada, September 27-30, 2024.
+
+[<b>- Role of genetics on frailty and sarcopenia:</b>]{.underline}
+
+We are investigating both standard statistical methods and machine learning methods for genome-wide association study for frailty and sarcopenia using the genetics data from the Canadian Longitudinal Study on Aging (CLSA).

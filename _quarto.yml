@@ -1,0 +1,34 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Sayem Borhan, PhD"
+  google-analytics:
+    tracking-id: "G-MFMREFPJR3"
+  navbar:
+    right: 
+      - text: "Research"
+        file: research.qmd
+      - text: "Publications"
+        file: publications.qmd
+      - text: "Awards"
+        file: awards.qmd
+      - text: "Teaching"
+        file: teaching.qmd
+      - text: "Consultancy"
+        file: consultancy.qmd
+      - text: "Contact"
+        file: contact.qmd
+  page-footer:
+    right: "Built with RStudio and [Quarto](https://quarto.org/)"
+    left: "&copy; Copyright 2025, Sayem Borhan"
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    
+
+
+
+
